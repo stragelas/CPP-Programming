@@ -1,0 +1,7 @@
+cd [folder]\[folder]                            // stepping ahead
+
+cd ..                                           // stepping back
+
+g++ -std=c++17 .\src\*.cpp -o .\bin\Main.exe    // compile file
+
+.\bin\Main.exe                                  // execute file
